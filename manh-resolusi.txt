@@ -1,0 +1,4 @@
+MANH RESOLUSI
+- Konsissten belajar programming
+- Memahami bahasa pemogramman seperti Html, jss, javaScirpt, Python, C++, Sql
+- Mengerti tentang Flutter, Dart dan Laravel
