@@ -1,4 +1,6 @@
 MANH RESOLUSI
 - Konsissten belajar programming
-- Memahami bahasa pemogramman seperti Html, jss, javaScirpt, Python, C++, Sql
+- Memahami bahasa pemogramman seperti Html, Jss, javaScirpt, Python, C++, Sql
 - Mengerti tentang Flutter, Dart dan Laravel
+- Membuat satu aplikasi untuk jurnal
+- Lulus dengan membawa ilmu programming
